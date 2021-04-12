@@ -44,7 +44,12 @@
 </div>
 
  
-## [Source Code](http://serverdownbeta.rf.gd/SVDNCode)
+## Source Code
+<div>
+	For now we are not making available the Source Code
+	<br>
+	<a href="http://serverdownbeta.rf.gd/SVDNCode/">If you really want the source code, try your luck at this link</a>
+</div>
 
 
 ### Good luck!
