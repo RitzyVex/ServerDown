@@ -9,6 +9,8 @@
 	With only a super light executable
 	<br>
 	Currently in version 0.5
+	<br>
+	<b style="color:red">Attention!!</b> when launching a new version the <a href="http://bit.do/SvDnRef">website</a> will be updated first
 </div>
 
 
@@ -48,7 +50,7 @@
 <div>
 	For now we are not making available the Source Code
 	<br>
-	If you really want the source code, try your luck at <a href="http://serverdownbeta.rf.gd/SVDNCode/">this link</a>
+	If you really want the source code, try your luck at <a href="http://bit.do/SvDnRef">this link</a>
 </div>
 
 
