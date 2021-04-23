@@ -13,6 +13,16 @@
 	<b style="color:red">Attention!!</b> when launching a new version the <a href="http://bit.do/SvDnRef">website</a> will be updated first
 </div>
 
+## Requeriments
+<div>
+	<a href="https://bit.ly/30n8xmk">NET Framework 4.1</a> or higher
+	<br>
+	<a href="https://bit.ly/3brLCwB">Python 3.7.3</a>
+	<br>
+	Windows XP or higher
+</div>
+
+
 ## How to use
 <div>
 	1. Download the program.
