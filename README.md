@@ -13,23 +13,16 @@
 	<b style="color:red">Attention!!</b> when launching a new version the <a href="http://bit.do/SvDnRef">website</a> will be updated first
 </div>
 
-
-## Installation
-<div>
-	Just run <code>ServerDown0.5.exe</code> file
-	<br>
-	<strong>Remember that the application only runs on Windows</strong>
-</div>
-
-
 ## How to use
 <div>
 	1. Download the program.
 	<br>
-	2. Execute the program.
+	2. Execute the program <code>ServerDown0.5.exe</code>.
 	<br>
 	3. Type the website or ip you want and press Enter.
 	<b>
+		<br>
+		Remember that the application only runs on Windows
 		<br>
 		Remember that it has to be a website that is hosted on a weak server
 		<br>
@@ -50,7 +43,7 @@
 <div>
 	For now we are not making available the Source Code
 	<br>
-	If you really want the source code, try your luck at <a href="http://bit.do/SvDnRef">this link</a>
+	If you really want the source code, try your luck at <a href="http://bit.do/SvDnCodeRef">this link</a>
 </div>
 
 
