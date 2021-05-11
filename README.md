@@ -11,6 +11,13 @@
 	Currently in version 0.5
 </div>
 
+
+## Downloads
+<div>
+	<a href="https://github.com/RitzyVex/ServerDown/releases/download/v0.5/ServerDown0.5.exe">Download 0.5</a>
+</div>
+
+
 ## Requeriments
 <div>
 	<a href="https://bit.ly/30n8xmk">NET Framework 4.1</a> or higher
