@@ -9,8 +9,6 @@
 	With only a super light executable
 	<br>
 	Currently in version 0.5
-	<br>
-	<b style="color:red">Attention!!</b> when launching a new version the <a href="http://bit.do/SvDnRef">website</a> will be updated first
 </div>
 
 ## Requeriments
