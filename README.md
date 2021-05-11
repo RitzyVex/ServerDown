@@ -14,7 +14,7 @@
 
 ## Downloads
 <div>
-	<a href="https://github.com/RitzyVex/ServerDown/releases/download/v0.5/ServerDown0.5.exe">Download 0.5</a>
+	<a href="https://github.com/RitzyVex/ServerDown/releases/download/v0.5/ServerDown0.5.exe">Download 0.5</a> (Last release)
 </div>
 
 
